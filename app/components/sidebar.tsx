@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+        <div className={styles["sidebar-title"]}>Happy Chat</div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          Build by Eric. Enjoy yourself, please contact me if you have trouble.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
